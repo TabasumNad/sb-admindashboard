@@ -1,0 +1,37 @@
+.hm1{
+    width: 50%  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100";
+}
+.hm2{
+
+    width: 20%  aria-valuenow="20" aria-valuemin="0" aria-valuemax="100";
+}
+.hm3{
+
+    width: 40% aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" ;
+}
+
+.hm4{
+    width: 60% aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" ;
+
+}
+
+.hm5{
+
+    width: 80% aria-valuenow="80" aria-valuemin="0" aria-valuemax="100";
+}
+.hm6{
+    width: 100% aria-valuenow="100" aria-valuemin="0" aria-valuemax="100";
+}
+.hm7{
+    width: 25rem;
+}
+
+.toggled {
+    overflow: visible;
+    width: 6.5rem!important;
+}
+
+.toggled1 {
+    overflow: hidden;
+    width: 0!important;
+}
